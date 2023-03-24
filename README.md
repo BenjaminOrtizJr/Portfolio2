@@ -29,4 +29,5 @@ react-vertical-timeline-component
 framer-motion
 react-router-dom
 
+npm install --legacy-peer-deps three
 
