@@ -18,7 +18,7 @@ const Navbar = () => {
             setActive("");
             window.scrollTo(0, 0);
           }}>
-          <img src={logo} alt="logo" className="w-20  object-contain" />
+          <img src={logo} alt="logo" className="w-10  object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex">Benjamin &nbsp;
             <span className="sm:block hidden">
             Ortiz Jr.</span></p>
