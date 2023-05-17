@@ -16,8 +16,8 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
-  tesla,
+  newstory,
+  aholddelhaize,
   shopify,
   carrent,
   jobit,
@@ -42,11 +42,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Website Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React App Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "IT Support Engineer",
     icon: creator,
   },
 ];
@@ -116,42 +116,33 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    title: "IT Support Engineer",
+    company_name: "New Story Management",
+    icon: newstory,
+    iconBg: "white",
+    date: "May 2023 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participate in the support, and operations of an enterprise IT environment at New Story Management. This includes supporting, maintaining, troubleshooting, and implementing all related hardware and software components related to running the business, including but not limited to, Cloud Infrastructure, Local Networks, Wide Area Networks, Vendor Management, all Devices, Servers, Smartboards, (including Mobile devices), Printers, Phones, Active Directory, O365, school and clinical software systems and other hardware as required.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    title: "IT Help Desk Admin",
+    company_name: "Ahold Delhaize",
+    icon: aholddelhaize,
+    iconBg: "white",
+    date: "Oct 2014 - Apr 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "IT Help Desk Support Analyst responsible for providing comprehensive software, hardware, and network support for all technology in a retail/office environment for thousands of end users spread across 2000+ locations along the East Coast. Experienced in handling both internal and external support requests, and strive to deliver timely and effective solutions for all technical issues.",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "Ortek Digital",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "October 2022 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I collaborated with Forney's Hauling Inc., a leading construction hauling company, to develop their professional brochure website using the CMS WordPress. With meticulous attention to detail, I crafted customized content that accurately showcased their services and achievements. I deployed and currently maintain the website, along with managing the domain and hosting. The result is a visually appealing and user-friendly website at www.forneyshauling.com, providing Forney's Hauling with a strong online presence and enabling them to focus on their core operations while effectively reaching potential clients and partners.",
     ],
   },
   {

@@ -40,7 +40,7 @@ const About = () => {
       <motion.p variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30x]"
       >
-        I'm a skilled software developer with experience in JavaScript and expertise in frameworks like React, Node.js and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        Welcome to my portfolio! I specialize in providing comprehensive IT support and creating cutting-edge websites and full stack web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong focus on delivering efficient and reliable IT solutions, I ensure that businesses can optimize their technology infrastructure for seamless operations. In addition, my expertise in MERN stack development allows me to build dynamic and feature-rich web applications that are fast, scalable, and user-friendly. I am passionate about leveraging my skills to help clients achieve their digital goals and create impactful online experiences.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
