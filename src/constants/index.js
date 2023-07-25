@@ -15,10 +15,9 @@ import {
   git,
   figma,
   docker,
-  meta,
-  newstory,
+  ortekdigital,
   aholddelhaize,
-  shopify,
+  forneyshauling,
   carrent,
   jobit,
   tripguide,
@@ -42,19 +41,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Website Developer",
+    title: "Full-Stack Web Development",
     icon: web,
   },
   {
-    title: "React App Developer",
+    title: "Custom Web Application Development",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Backend Development",
     icon: backend,
   },
   {
-    title: "IT Support Engineer",
+    title: "Responsive Web Design",
     icon: creator,
   },
 ];
@@ -116,46 +115,43 @@ const technologies = [
 
 const experiences = [
   {
-    title: "IT Support Engineer",
-    company_name: "New Story Management",
-    icon: newstory,
+    title: "Web Developer",
+    company_name: "Public Offering",
+    icon: ortekdigital,
     iconBg: "white",
-    date: "May 2023 - Current",
+    date: "December 2022 - Present",
     points: [
-      "Participate in the support, and operations of an enterprise IT environment at New Story Management. This includes supporting, maintaining, troubleshooting, and implementing all related hardware and software components related to running the business, including but not limited to, Cloud Infrastructure, Local Networks, Wide Area Networks, Vendor Management, all Devices, Servers, Smartboards, (including Mobile devices), Printers, Phones, Active Directory, O365, school and clinical software systems and other hardware as required.",
+      "As the lead web developer at Ortek Digital, I created a seamless and interactive Drivers License Practice Exam app using HTML, CSS, and JavaScript. The user-friendly interface allowed individuals to take a multiple-choice practice exam with real-time feedback on their answers. The app dynamically guides users through the exam, providing a final score and percentage grade upon completion. It proved to be a valuable tool for aspiring drivers, helping them assess their knowledge and gain confidence for the actual license exam. Through the Drivers License Practice Exam app, Ortek Digital made a meaningful contribution, empowering individuals with a convenient and accessible way to prepare for their driving journey. The app's interactive features and comprehensive design ensured a practical and engaging learning experience, benefiting aspiring drivers in their pursuit of obtaining a driver's license.",
     ],
   },
   {
-    title: "IT Help Desk Admin",
+    title: "Web Developer",
+    company_name: "Forney's Hauling",
+    icon: forneyshauling,
+    iconBg: "white",
+    date: "November 2022 - Present",
+    points: [
+      "For my first client at Ortek Digital, I collaborated with Forney's Hauling Inc., a prominent construction hauling company, to develop their professional brochure website. Meticulously crafting custom content that showcases their services and achievements, I deployed and currently maintain the website, along with handling the domain and hosting. The result is www.forneyshauling.com, a visually appealing and user-friendly website that grants Forney's Hauling a strong online presence. Now, they can focus on their core operations while effectively reaching potential clients and partners through their new digital platform.",
+    ],
+  },
+  {
+    title: "Web Development Services",
+    company_name: "Ortek Digital",
+    icon: ortekdigital,
+    iconBg: "white",
+    date: "October 2022 - Current",
+    points: [
+      "I founded Ortek Digital to provide top-notch web development services to my local community. As a certified full-stack web developer, I'm dedicated to crafting custom web applications with responsive designs and seamless user experiences. My mission is to bridge the digital gap and empower businesses and individuals in our community with cutting-edge digital solutions.",
+    ],
+  },
+  {
+    title: "IT Help Desk Support",
     company_name: "Ahold Delhaize",
     icon: aholddelhaize,
     iconBg: "white",
     date: "Oct 2014 - Apr 2023",
     points: [
       "IT Help Desk Support Analyst responsible for providing comprehensive software, hardware, and network support for all technology in a retail/office environment for thousands of end users spread across 2000+ locations along the East Coast. Experienced in handling both internal and external support requests, and strive to deliver timely and effective solutions for all technical issues.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Ortek Digital",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "October 2022 - Current",
-    points: [
-      "I collaborated with Forney's Hauling Inc., a leading construction hauling company, to develop their professional brochure website using the CMS WordPress. With meticulous attention to detail, I crafted customized content that accurately showcased their services and achievements. I deployed and currently maintain the website, along with managing the domain and hosting. The result is a visually appealing and user-friendly website at www.forneyshauling.com, providing Forney's Hauling with a strong online presence and enabling them to focus on their core operations while effectively reaching potential clients and partners.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
 ];

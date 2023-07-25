@@ -21,9 +21,9 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import newstory from "./company/newstory.png";
+
+import forneyshauling from "./company/forneyshauling.png";
+import ortekdigital from "./company/ortekdigital.jpg";
 import aholddelhaize from "./company/aholddelhaize.png";
 
 import carrent from "./carrent.png";
@@ -52,9 +52,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  newstory,
+  forneyshauling,
+  ortekdigital,
   aholddelhaize,
   carrent,
   jobit,
